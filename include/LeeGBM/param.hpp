@@ -5,8 +5,8 @@
  * Time : Tue 11 Apr 2017 20:34:50
  *
  */
-#ifndef LEE_PARAM_HPP
-#define LEE_PARAM_HPP
+#ifndef LEEGBM_PARAM_HPP
+#define LEEGBM_PARAM_HPP
 
 #include <string>
 

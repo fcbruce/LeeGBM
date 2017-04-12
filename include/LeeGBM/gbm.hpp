@@ -5,8 +5,8 @@
  * Time : Tue 11 Apr 2017 20:14:54
  *
  */
-#ifndef LEE_GBM_HPP
-#define LEE_GBM_HPP
+#ifndef LEEGBM_GBM_HPP
+#define LEEGBM_GBM_HPP
 
 #include <vector>
 

@@ -5,8 +5,8 @@
  * Time : Tue 11 Apr 2017 20:25:19
  *
  */
-#ifndef LEE_TREE_HPP
-#define LEE_TREE_HPP
+#ifndef LEEGBM_TREE_HPP
+#define LEEGBM_TREE_HPP
 
 namespace LeeGBM 
 {

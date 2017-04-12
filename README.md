@@ -7,5 +7,15 @@ A Gradient Boost Machine
 
 ## TODO  
 * code
-* gtest
 * python api
+
+
+## Build
+`./build.sh`
+
+
+## Test
+```
+cd test
+./test.sh $test_module
+```
